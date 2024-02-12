@@ -12,14 +12,15 @@ const About = () => {
         <article className='about-info'>
           <h3>explore the difference</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+            Backroads Travel Tours, we specialize in crafting unforgettable
+            journeys off the beaten path. Our tours blend adventure with culture
+            and luxury, leading you to the world's hidden gems and breathtaking
+            landscapes.
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+            Experience travel that's intimate, authentic, and tailored to
+            provide you with a trip of a lifetime. Join us and discover the
+            roads less traveled.
           </p>
           <a href='#about' className='btn'>
             read more
